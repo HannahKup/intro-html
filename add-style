@@ -1,6 +1,7 @@
 <html>
     <head>
-        <title> Hansi </title>
+        <title>Hans im Glück</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <ol>
